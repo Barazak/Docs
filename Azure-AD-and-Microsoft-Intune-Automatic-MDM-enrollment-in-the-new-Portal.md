@@ -5,11 +5,11 @@ In the Old portal it was simple, have a look here: https://cloudblogs.microsoft.
 But where those steps in the new Portal:
 
 Go to your Azure AD Blade, select the Mobility (MDM and MAM) and there should be the Microsoft Intune "App" Visible, select the Microsoft Intune and configure the Blade
-![Configure the Blade](https://github.com/slaet/Docs/tree/master/Images/automaticMDM1.png)
+![How to get to the Blade](Images/automaticMDM1.png)
 
 
 Configure the Blade:
-![Configure the Blade](https://github.com/slaet/Docs/tree/master/Images/automaticMDM2.png)
+![Configure the Blade](Images/automaticMDM2.png)
 
 
 Select all for allow all users to enroll a Device and make it Intune ready, or Some, then you can add a Group of Users.
