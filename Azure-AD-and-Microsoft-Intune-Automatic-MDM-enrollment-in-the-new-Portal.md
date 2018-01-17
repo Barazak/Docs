@@ -1,3 +1,7 @@
+
+# Azure AD and Microsoft Intune: Automatic MDM enrollment in the new Portal
+
+
 Hi all, I was Just looking for the Automatic enrollment Process, in this case I realized that the Old Azure Portal redirects you to the new Azure Portal (Ibiza) and there is no more any setting possible in the Old Portal.
 The steps to integrate the automatic AAD-Join and bring your device up and running in Microsoft Intune as a MDM Managed Device you have to add the following steps:
 In the Old portal it was simple, have a look here: https://cloudblogs.microsoft.com/enterprisemobility/2015/08/14/windows-10-azure-ad-and-microsoft-intune-automatic-mdm-enrollment-powered-by-the-cloud/
